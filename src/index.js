@@ -1,5 +1,5 @@
 function refreshWeather(response) {
-  let api = "84f089o675t337db0e34acb583cd5ba0";
+  let apiKey = "84f089o675t337db0e34acb583cd5ba0";
   let apiUrl =
     '"https://api.shecodes.io/weather/v1/current?query=${city}&key=${apiKey}$units=metric"';
 }
